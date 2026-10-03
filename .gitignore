@@ -13,3 +13,9 @@ build/
 轨迹/
 录屏/
 视频/
+
+# 本地运行数据与工具
+data/
+.housekeep-tools/
+frontend/node_modules/
+src/main/resources/META-INF/resources/
